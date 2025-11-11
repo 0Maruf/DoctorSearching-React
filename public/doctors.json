@@ -1,0 +1,290 @@
+[
+    {
+        "id": 0,
+        "image": "https://images.unsplash.com/photo-1659353888633-bc0db91345df?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+        "name": "Dr. Tushy Akter  ",
+        "education": "MBBS, MD (Medicine)",
+        "speciality": "Cardiologist",
+        "experience": "6 years",
+        "registrationNumber": "MH2021345678",
+        "workingAt": "Fortis Hospital, Mumbai",
+        "fees": 1500,
+        "available": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "designation": "Senior Consultant Cardiologist"
+    },
+    {
+        "id": 18,
+        "image": "https://images.unsplash.com/photo-1659353887019-b142198f2668?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+        "name": "Dr. Luna Akter  ",
+        "education": "MBBS, MD (Internal Medicine)",
+        "speciality": "Cardiologist",
+        "experience": "6 years",
+        "registrationNumber": "MH2021345678",
+        "workingAt": "Fortis Hospital, Mumbai",
+        "fees": 1500,
+        "available": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "designation": "Senior Consultant Cardiologist"
+    },
+    {
+        "id": 19,
+        "image": "https://images.unsplash.com/photo-1659353887238-d6c8506a1b5b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+        "name": "Dr. Karen Gillan  ",
+        "education": "MBBS, MD (Internal Medicine)",
+        "speciality": "Cardiologist",
+        "experience": "6 years",
+        "registrationNumber": "MH2021345678",
+        "workingAt": "Fortis Hospital, Mumbai",
+        "fees": 1500,
+        "available": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "designation": "Senior Consultant Cardiologist"
+    },
+    {
+        "id": 20,
+        "image": "https://images.unsplash.com/photo-1659353888818-0e41520d086a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+        "name": "Dr. Zoe Saldaña  ",
+        "education": "MBBS, MD (Internal Medicine)",
+        "speciality": "Cardiologist",
+        "experience": "6 years",
+        "registrationNumber": "MH2021345678",
+        "workingAt": "Fortis Hospital, Mumbai",
+        "fees": 1500,
+        "available": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "designation": "Senior Consultant Cardiologist"
+    },
+    {
+        "id": 21,
+        "image": "https://images.unsplash.com/photo-1659353886868-753b0c5c5772?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+        "name": "Dr.Emma Stone  ",
+        "education": "MBBS, MD (Internal Medicine)",
+        "speciality": "Cardiologist",
+        "experience": "6 years",
+        "registrationNumber": "MH2021345678",
+        "workingAt": "Fortis Hospital, Mumbai",
+        "fees": 1500,
+        "available": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "designation": "Senior Consultant Cardiologist"
+    },
+    {
+        "id": 14,
+        "image": "https://images.unsplash.com/photo-1659353888906-adb3e0041693?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+        "name": "Dr. Julia Megh",
+        "education": "MBBS, MD (Psychiatry)",
+        "speciality": "Psychiatrist",
+        "experience": "3 years",
+        "registrationNumber": "PB2021456098",
+        "workingAt": "MindCare Clinic, Ludhiana",
+        "fees": 1500,
+        "available": [
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ],
+        "designation": "Consultant Psychiatrist"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/wFc0XChZ/Doctor-1.jpg",
+        "name": "Dr. Priya Sharma",
+        "education": "MBBS, MS (Gynecology)",
+        "speciality": "Gynecolog",
+        "experience": "9 years",
+        "registrationNumber": "DL2019234567",
+        "workingAt": "Apollo Cradle apna , Delhi",
+        "fees": 1200,
+        "available": [
+            "Monday",
+            "Wednesday",
+            "Friday"
+        ],
+        "designation": "Consultant Gynecologist"
+    },
+      {
+        "id": 13,
+        "image": "https://images.unsplash.com/photo-1683348858658-7c6b0eff2a16?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+        "name": "Dr. lena Sharma",
+        "education": "MBBS, MD (Psychiatry)",
+        "speciality": "Psychiatrist",
+        "experience": "9 years",
+        "registrationNumber": "PB2021456098",
+        "workingAt": "MindCare Clinic, Ludhiana",
+        "fees": 1500,
+        "available": [
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ],
+        "designation": "Consultant Psychiatrist"
+    },
+    {
+        "id": 15,
+        "image": "https://plus.unsplash.com/premium_photo-1681995291320-d0e369cc373d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+        "name": "Dr. Anna jucie",
+        "education": "MBBS, MD (Psychiatry)",
+        "speciality": "Psychiatrist",
+        "experience": "5 years",
+        "registrationNumber": "PB2021456098",
+        "workingAt": "MindCare Clinic, Ludhiana",
+        "fees": 1500,
+        "available": [
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ],
+        "designation": "Consultant Psychiatrist"
+    },
+    {
+        "id": 16,
+        "image": "https://plus.unsplash.com/premium_photo-1702598616428-205ea0fe9b05?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+        "name": "Dr. Elizabeth Olsen",
+        "education": "MBBS, MD (Psychiatry)",
+        "speciality": "Psychiatrist",
+        "experience": "8 years",
+        "registrationNumber": "PB2021456098",
+        "workingAt": "MindCare Clinic, Ludhiana",
+        "fees": 1500,
+        "available": [
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ],
+        "designation": "Consultant Psychiatrist"
+    },
+    {
+        "id": 17,
+        "image": "https://images.unsplash.com/photo-1757125736482-328a3cdd9743?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1974",
+        "name": "Dr. Emily VanCamp",
+        "education": "MBBS, MD (Psychiatry)",
+        "speciality": "Psychiatrist",
+        "experience": "3 years",
+        "registrationNumber": "PB2021456098",
+        "workingAt": "MindCare Clinic, Ludhiana",
+        "fees": 1500,
+        "available": [
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ],
+        "designation": "Consultant Psychiatrist"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/h1rDfKsF/Doctor-3.jpg",
+        "name": "Dr. Neha Verma",
+        "education": "MBBS, DNB (Dermatology)",
+        "speciality": "Dermatologist",
+        "experience": "7 years",
+        "registrationNumber": "TN2020456712",
+        "workingAt": "SkinCure Clinic, Chennai",
+        "fees": 1400,
+        "available": [
+            "Monday",
+            "Thursday",
+            "Sunday"
+        ],
+        "designation": "Consultant Dermatologist"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/RGgKb3QH/Doctor-4.jpg",
+        "name": "Dr. Ananya Iyer",
+        "education": "MBBS, MS (ENT)",
+        "speciality": "ENT Specialist",
+        "experience": "8 years",
+        "registrationNumber": "KL2021234568",
+        "workingAt": "Aster Medcity, Kochiruddin ",
+        "fees": 950,
+        "available": [
+            "Tuesday",
+            "Thursday",
+            "Sunday"
+        ],
+        "designation": "ENT Consultant"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/67FGY2Bq/Doctor-5.jpg",
+        "name": "Dr. Sanya Kulkarni",
+        "education": "MBBS, MD (Pediatrics)",
+        "speciality": "Pediatrician",
+        "experience": "11 years",
+        "registrationNumber": "RJ2020345623",
+        "workingAt": "Rainbow Children's Hospital",
+        "fees": 1100,
+        "available": [
+            "Tuesday",
+            "Friday",
+            "Sunday"
+        ],
+        "designation": "Consultant Pediatrician"
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/bMhNLMzk/Doctor-6.jpg",
+        "name": "Dr. Kavita Bansal",
+        "education": "MBBS, DGO",
+        "speciality": "Obstetrician",
+        "experience": "9 years",
+        "registrationNumber": "HR2020789543",
+        "workingAt": "Bansalia Maternity Clinical ",
+        "fees": 900,
+        "available": [
+            "Monday",
+            "Tuesday",
+            "Friday"
+        ],
+        "designation": "Consultant Obstetrician"
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/G3fqQ4rR/Doctor-2.jpg",
+        "name": "Dr. Ritu Deshmukh",
+        "education": "MBBS, MD (Psychiatry)",
+        "speciality": "Psychiatrist",
+        "experience": "6 years",
+        "registrationNumber": "PB2021456098",
+        "workingAt": "MindCare Clinic, Ludhiana",
+        "fees": 800,
+        "available": [
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ],
+        "designation": "Consultant Psychiatrist"
+    }
+  
+]
