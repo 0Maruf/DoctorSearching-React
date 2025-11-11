@@ -35,7 +35,7 @@ const Doctors = () => {
                 </form>
             </div>
             
-            <div className='grid grid-cols-3  gap-5  justify-items-center mt-10'>
+            <div className='grid grid-cols-1  md:grid-cols-3  gap-5  justify-items-center mt-10'>
                 {
                     doctors.map((doctor) => <Doctor key={doctor.id} doctor={doctor}></Doctor>)
                 }
