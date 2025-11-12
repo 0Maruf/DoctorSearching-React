@@ -17,7 +17,7 @@ const Home = () => {
         <div className="card-body lg:w-1/2 p-8 flex flex-col justify-center">
           <h2 className="card-title text-3xl md:text-4xl font-extrabold text-primary mb-4">Find Your Best Doctor</h2>
           <p className='text-gray-600 mb-6'>
-            Finding the right healthcare provider is now simpler than ever. Browse certified specialists, view real-time availability, and book your appointment instantly. Quality care is just a click away.
+            Finding the right healthcare provider is now simpler than ever. Browse certified specialists, <br /> view real-time availability, and book your appointment instantly. Quality care is just a click away.
           </p>
           <div className="card-actions justify-start mt-4">
             <button className="btn btn-primary shadow-lg hover:shadow-xl transition duration-300">
